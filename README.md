@@ -34,4 +34,6 @@ logrotate.bat path\to\file 10 10M
 The file is rotated from path\to\file.1 to file\to\file.10
 if the size exeeds 10 Mega-bytes.
 
-Copyright © 2015 Urin. Licensed under MIT.
+## License
+
+[MIT](LICENSE). Copyright (c) 2015 [Urin](https://github.com/urin).
